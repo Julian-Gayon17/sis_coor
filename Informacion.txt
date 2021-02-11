@@ -1,0 +1,4 @@
+Presentado por: Julian Sneither Gayon Bayona
+
+Referencias:
+	-https://threejs.org/
